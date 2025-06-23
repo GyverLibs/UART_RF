@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For UART_RF
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UART_RF_TX	KEYWORD1
+UART_RF_RX	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+urf	LITERAL1
+Encoding	LITERAL1
+None	LITERAL1
+DC4_6	LITERAL1
+Manchester	LITERAL1
+Hamming	LITERAL1
+Simple	LITERAL1
+Mixed	LITERAL1
